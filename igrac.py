@@ -1,3 +1,4 @@
 class Igrac:
-    def __init__(self):
+    def __init__(self, name: str):
+        self.name = name
         pass
